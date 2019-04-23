@@ -17,7 +17,7 @@ public class Solution1Test extends TestCase {
             arr[i] = arrItem;
         }
 
-        int res[] = Solution1.hourglassSum(arr, 4);
+        int res[] = Solution1.rotLeft(arr, 4);
 
         int[] solution = {5, 1, 2, 3, 4};
         for(int i = 0; i < solution.length; i++) {
