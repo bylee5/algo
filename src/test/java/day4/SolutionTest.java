@@ -17,5 +17,11 @@ public class SolutionTest extends TestCase {
 
         int res2 = Solution.sockMerchant(n2, ar2);
         assertEquals(res2, 6);
+
+
+        int n3 = 15;
+        int[] ar3 = {6, 5, 2, 3, 5, 2, 2, 1, 1, 5, 1, 3, 3, 3, 5};
+        int res3 = Solution2.sockMerchant2(n3, ar3);
+        assertEquals(res3, 6);
     }
 }
