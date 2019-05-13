@@ -1,7 +1,5 @@
 package sort;
 
-import java.util.Arrays;
-
 public class Qsort {
     private int[] x;
     public Qsort(int[] x){
