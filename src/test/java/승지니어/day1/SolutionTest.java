@@ -2,6 +2,7 @@ package 승지니어.day1;
 
 import junit.framework.TestCase;
 import org.junit.Test;
+import 승지니어.day1.Solution;
 
 public class SolutionTest extends TestCase {
     @Test
