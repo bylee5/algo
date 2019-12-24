@@ -1,0 +1,9 @@
+107. Binary Tree Level Order Traversal 2
+
+입력: [3, 9, 20, null, null, 15, 7]
+출력:
+[
+    [15, 7],
+    [9, 20],
+    [3]
+]
