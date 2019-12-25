@@ -1,7 +1,5 @@
 package 해커랭크.day6;
 
-import sun.awt.image.ImageWatched;
-
 import java.util.ArrayList;
 import java.util.List;
 
