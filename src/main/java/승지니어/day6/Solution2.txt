@@ -1,0 +1,8 @@
+876. Middle of the Linked List
+
+링크 리스트에서 중간 값을 반환
+input: [1,2,3,4,5]
+output: 3
+
+input: [1,2,3,4,5,6]
+output: 4
