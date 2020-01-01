@@ -1,0 +1,14 @@
+desc: 계단 올르기
+한 번에 1~2 계단을 올라갈 수 있다. n 계단을 탈 때 방법은?
+결국, 피보나치 푸는 것과  같다.
+
+input:2
+output:2
+1. 1 step + 1 step
+2. 2 step
+
+input:3
+output:3
+1. 1 step + 1 step + 1 step
+2. 1 step + 2 step
+3. 2 step + 1 step
