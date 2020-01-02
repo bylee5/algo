@@ -1,0 +1,14 @@
+desc: 짝 맞추기
+    스택 문제
+
+example 1:
+input: "()"
+output: true
+
+example 2:
+input: "()[]"
+output: true
+
+exmaple 3:
+input: "(()"
+output: false
