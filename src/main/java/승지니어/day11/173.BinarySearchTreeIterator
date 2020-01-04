@@ -1,0 +1,7 @@
+desc: 이진트리를 주고 iterator를 구현해라.
+next() : 작은 값 출력
+hasNext() :
+
+input:
+
+output:
