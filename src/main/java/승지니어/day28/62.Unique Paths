@@ -1,0 +1,13 @@
+m*n 격자이 있다.
+7*3 격자가 있고, start 지점(0,0)에서 finish 지점(2,6)까지 가는 모든 방법의 수를 구하는 문제
+
+1)
+input: m = 3, n = 2
+output: 3
+1. right -> right -> down
+2. right -> down -> right
+3. down -> right -> right
+
+2)
+input: m = 7, n = 3;
+output: 28
