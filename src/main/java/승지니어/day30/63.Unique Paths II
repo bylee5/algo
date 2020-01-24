@@ -1,0 +1,13 @@
+로봇 글찾기 문제이고, 장애물이 있다.
+
+input:
+[
+    [0,0,0]
+    [0,1,0]
+    [0,0,0]
+]
+1은 장애물
+
+output: 2
+1. right -> right -> down -> down
+2. down -> down -> right -> right
