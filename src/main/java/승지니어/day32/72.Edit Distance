@@ -1,0 +1,10 @@
+수정 거리.
+
+word1을 word2로 바꾸는 문제
+word1에 문자를 삽입, 삭제, 대체가 가능하다.
+
+input: word1 = "horse", word2 = "ros"
+output: 3
+horse -> rorse ( replace 'h' with 'r' )
+rorse -> rose ( remove 'r' )
+rose -> ros ( remove 'e' )
