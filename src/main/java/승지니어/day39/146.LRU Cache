@@ -1,0 +1,17 @@
+가장 접근한지 오래된 아이템을 제거하고 새로운 아이템을 넣는다.
+
+get(), put() 연산자 구현. 두 연산자 시간 복잡도는 O(1)
+get(key): key 조회, 없으면 -1
+put(key, value):
+
+LRUCache cache = new LRUCache( 2 );
+
+cache.put(1, 1);
+cache.put(2, 2);
+cache.get(1); // return 1
+cache.put(3, 3); // evicts key 2
+cache.get(2); //returns -1 (not found)
+cache.put(4, 4); // evicts key 1
+cache.get(1); // return -1
+cache.get(3);// return 3
+cache.get(4); // return 4
